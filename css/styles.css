@@ -7,7 +7,7 @@
  */
 
 .site-header {
-    background-color: lightblue;
+    background-color: orange;
 }
 
 /**
@@ -17,7 +17,7 @@
  */
 
 .section-intro {
-    background-color: lightcoral;
+    background-color: darkorange;
 }
 
 /**
@@ -27,7 +27,7 @@
  */
 
 .section-wishlist {
-    background-color: lightgreen;
+    background-color: #E85C1A;
 }
 
 /**
@@ -37,7 +37,7 @@
  */
 
 .section-gallery {
-    background-color: lightseagreen;
+    background-color: #E86B1A;
 }
 
 /**
@@ -47,7 +47,7 @@
  */
 
 .section-about {
-    background-color: lightgoldenrodyellow;
+    background-color: #E81A1A;
 }
 
 /**
